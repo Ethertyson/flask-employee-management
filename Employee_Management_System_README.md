@@ -77,11 +77,11 @@ Deployed on Render: https://flask-employee-management.onrender.com/
 
 ## Project Structure
 - app -- models
-	  -- routes
-	  -- schemas
-	  -- utils
-	  -- __init__.py
-	  -- extensions.py
+      -- routes
+      -- schemas
+      -- utils
+      -- __init__.py
+      -- extensions.py
 - venv
 - .env
 - config.py
