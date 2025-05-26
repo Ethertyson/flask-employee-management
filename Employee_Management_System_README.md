@@ -65,7 +65,7 @@ Deployed on Render: https://flask-employee-management.onrender.com/
 
 ## API Documentation
 - **Auth:** `/registerUser`, `/loginUser`, `/loginUserV2`, `/logoutUser`, `/logoutUserV2`  
-- **Employees:** `/fetchEmployeewithFlask`, `/insertEmployeewithFlask`, `/updateEmployeewithFlask`, `/deleteEmployeewithFlask`, `fetchEmployeewithFlaskUsingPagination`, `fetchEmpthroughPagValidFilter`, `/fetchEmpSerialized` (CRUD operations)
+- **Employees:** `/fetchEmployeewithFlask`, `/insertEmployeewithFlask`, `/updateEmployeewithFlask`, `/deleteEmployeewithFlask`, `/fetchEmployeewithFlaskUsingPagination`, `/fetchEmpthroughPagValidFilter`, `/fetchEmpSerialized` (CRUD operations)
 - Protected routes require JWT token in `Authorization` header as:  
   `Authorization: Bearer <your-token>`
 
